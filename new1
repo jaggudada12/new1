@@ -4,4 +4,4 @@ tar -xvf lolMiner_v1.44_Lin64.tar.gz
 
 cd 1.44 
 
-./lolMiner --algo ETHASH --pool stratum+tcp://ethash.poolbinance.com:1800 --user 0x3eefcac842f0289e38ed96ebb8003d9b4e9db86a.Bminingaccount1.001:123456 --dualmode TONDUAL --dualpool https://server1.whalestonpool.com --dualuser EQBRU6yH5vIvrMTDDY77mAcFgcF1bCbTVziylkmZSf0cGj5A
+./lolMiner --algo ETHASH --pool stratum+tcp://ethash.poolbinance.com:1800 --user 0x3eefcac842f0289e38ed96ebb8003d9b4e9db86a.Bminingaccount1.001:123456
